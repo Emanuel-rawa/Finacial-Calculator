@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/money_distrib.dir/main.cpp.o CMakeFiles/money_distrib.dir/game_controller.cpp.o CMakeFiles/money_distrib.dir/interface.cpp.o -o ../money_distrib

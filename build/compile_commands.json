@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/emanuel/Documentos/projetos/finance/build/src",
+  "command": "/usr/bin/c++  -I/home/emanuel/Documentos/projetos/finance -Wall -pedantic -O3 -o CMakeFiles/money_distrib.dir/main.cpp.o -c /home/emanuel/Documentos/projetos/finance/src/main.cpp",
+  "file": "/home/emanuel/Documentos/projetos/finance/src/main.cpp",
+  "output": "src/CMakeFiles/money_distrib.dir/main.cpp.o"
+},
+{
+  "directory": "/home/emanuel/Documentos/projetos/finance/build/src",
+  "command": "/usr/bin/c++  -I/home/emanuel/Documentos/projetos/finance -Wall -pedantic -O3 -o CMakeFiles/money_distrib.dir/game_controller.cpp.o -c /home/emanuel/Documentos/projetos/finance/src/game_controller.cpp",
+  "file": "/home/emanuel/Documentos/projetos/finance/src/game_controller.cpp",
+  "output": "src/CMakeFiles/money_distrib.dir/game_controller.cpp.o"
+},
+{
+  "directory": "/home/emanuel/Documentos/projetos/finance/build/src",
+  "command": "/usr/bin/c++  -I/home/emanuel/Documentos/projetos/finance -Wall -pedantic -O3 -o CMakeFiles/money_distrib.dir/interface.cpp.o -c /home/emanuel/Documentos/projetos/finance/src/interface.cpp",
+  "file": "/home/emanuel/Documentos/projetos/finance/src/interface.cpp",
+  "output": "src/CMakeFiles/money_distrib.dir/interface.cpp.o"
+}
+]

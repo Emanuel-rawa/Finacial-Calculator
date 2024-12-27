@@ -1,0 +1,5 @@
+/home/emanuel/Documentos/projetos/finance/build/CMakeFiles/edit_cache.dir
+/home/emanuel/Documentos/projetos/finance/build/CMakeFiles/rebuild_cache.dir
+/home/emanuel/Documentos/projetos/finance/build/src/CMakeFiles/money_distrib.dir
+/home/emanuel/Documentos/projetos/finance/build/src/CMakeFiles/edit_cache.dir
+/home/emanuel/Documentos/projetos/finance/build/src/CMakeFiles/rebuild_cache.dir
